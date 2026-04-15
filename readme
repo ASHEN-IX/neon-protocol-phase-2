@@ -1,96 +1,98 @@
 # 🎭 PHASE 2: LAB REPORT ANOMALY
-## WHERE TO START
 
----
+![Status](https://img.shields.io/badge/Status-ACTIVE-red?style=for-the-badge)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange?style=for-the-badge)
+![Objective](https://img.shields.io/badge/Objective-Find%20Hidden%20Message-blue?style=for-the-badge)
 
 ## 🚪 YOUR NEXT MOVE
 
-**You are ready to play Phase 2.**
-
-**Go to:** 🔴 **INVESTIGATION ROOM** ← Start Here
-
-**There you will find:** A printed lab report
-
----
-
-## 📖 WHAT YOU'LL DO
-
-### **Phase 1: Investigation Room** 
-1. Read the printed lab report carefully
-2. Look for clues about what happened
-3. Notice the investigator's note
-4. You'll discover you need to check the System Room database
-
-### **Phase 2: System Room**
-1. Access the digital database (on screen or printed)
-2. Compare it with the Investigation Room report
-3. Find the inconsistencies
-4. Identify the hidden message
-5. Submit your answer
+> [!IMPORTANT]
+> **You are ready to play Phase 2.**
+> 
+> **Go to:** 🔴 [**INVESTIGATION ROOM**](#) `← Start Here`
+> 
+> **Inside you will find:** A printed physical lab report.
 
 ---
 
-## 🎯 YOUR OBJECTIVE
+## 📖 THE DEPLOYMENT PLAN
 
-**Find the hidden message**
+### **Phase 1: Investigation Room** 🔍
+- [ ] Read the printed lab report carefully.
+- [ ] Scan for clues regarding the anomaly.
+- [ ] Locate the investigator's handwritten note.
+- [ ] Unlock access to the **System Room** database.
 
-That's it. That's all you need to know.
-
----
-
-## 💡 QUICK TIPS
-
-- ✓ Read everything carefully
-- ✓ Work as a team (keep contacting your team mates from other rooms)
-- ✓ Watch for patterns
-- ✓ Write down what you find
-- ✓ When stuck, ask the Game Master for a hint
+### **Phase 2: System Room** 🖥️
+- [ ] Access the digital database (screen or print).
+- [ ] Run a manual comparison with the Investigation Room report.
+- [ ] Flag all data inconsistencies.
+- [ ] Decode the hidden message and submit.
 
 ---
 
-## 🎬 YOUR MISSION BRIEFING
+## 🎯 MISSION OBJECTIVE
 
-*The Game Master will read this before you start:*
+| Metric | Target |
+| :--- | :--- |
+| **Primary Goal** | **Extract the Hidden Message** |
+| **Success Criteria** | Pattern identified and validated |
+| **Intel Source** | Dr. Helena Cross, Lead Investigator |
 
+---
+
+## 💡 TECHNICAL TIPS
+
+- 📖 **Read everything.** Hidden strings are often in plain sight.
+- 🤝 **Sync with your team.** Cross-room communication is your greatest asset.
+- 📉 **Watch for patterns.** Inconsistencies are not errors; they are data points.
+- 📝 **Log your findings.** Write down every discrepancy immediately.
+- 🔑 **Need a hint?** Ping the **Game Master** for an override.
+
+---
+
+## 🎬 MISSION BRIEFING
+
+> [!CAUTION]
+> **ACCESS GRANTED: CLASSIFIED RESEARCH MATERIALS**
+> 
 > "A scientist has been poisoned. His name is Dr. Silas Venn. Before he collapsed, he left a trail for anyone who'd look carefully enough.
 >
-> You've been granted access to classified research materials. Find what's hidden within the inconsistencies.
+> You've been granted access to classified research materials. Find what's hidden within the inconsistencies. Dr. Helena Cross believes you'll understand the message once you see it.
 >
-> Dr. Helena Cross, lead investigator, believes you'll understand the message once you see it.
->
-> Begin in the Investigation Room. Read the report. Then proceed to System Room. Compare. Observe. Discover.
->
-> Good luck."
+> **Begin in the Investigation Room. Observe. Discover. Good luck.**"
 
 ---
 
-## ❓ COMMON QUESTIONS
+## ❓ FREQUENTLY ASKED QUESTIONS
 
-**Q: Where do I start?**  
-A: Investigation Room. Look for the printed report.
+<details>
+<summary><b>Where do I start?</b></summary>
+Head to the <b>Investigation Room</b> first. Locate the physical printed report.
+</details>
 
-**Q: What am I looking for?**  
-A: Differences between the printed report and the digital database.
+<details>
+<summary><b>What am I looking for?</b></summary>
+Direct differences between the <b>printed report</b> and the <b>digital database</b>.
+</details>
 
-**Q: How will I know when I find it?**  
-A: The pattern will become clear. You'll recognize the message.
+<details>
+<summary><b>How will I know when I find it?</b></summary>
+The anomaly will form a recognizable pattern or string. You'll know it when you see it.
+</details>
 
-**Q: How long will this take?**  
-A: 30-45 minutes typically. Take your time.
-
-**Q: What if we get stuck?**  
-A: Ask the Game Master. Hints are available.
-
----
-
-## 🏁 READY?
-
-**Go to the Investigation Room now.**
-
-The report is waiting.
-
-The investigation begins.
+<details>
+<summary><b>What is the ETA for this phase?</b></summary>
+Typically <b>30-45 minutes</b>. Thoroughness beats speed here.
+</details>
 
 ---
 
-*Phase 2: Lab Report Anomaly*
+## 🏁 INITIALIZE
+
+**Proceed to the Investigation Room immediately.**
+
+The report is waiting. The investigation begins.
+
+---
+*Phase 2: Lab Report Anomaly // System Auth: Vanitas*
