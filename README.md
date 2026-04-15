@@ -1,0 +1,95 @@
+# 🎭 PHASE 2: LAB REPORT ANOMALY
+
+![Status](https://img.shields.io/badge/Status-ACTIVE-red?style=for-the-badge)
+![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange?style=for-the-badge)
+![Objective](https://img.shields.io/badge/Objective-Find%20Hidden%20Message-blue?style=for-the-badge)
+
+## 🚪 YOUR NEXT MOVE
+
+> [!IMPORTANT]
+> **You are ready to play Phase 2.**
+> 
+> **Go to:** 🔴 [**INVESTIGATION ROOM**](#) `← Start Here`
+> 
+> **Inside you will find:** A printed physical lab report.
+
+---
+
+## 📖 THE DEPLOYMENT PLAN
+
+### **Phase 1: Investigation Room** 🔍
+- [ ] Read the printed lab report carefully.
+- [ ] Scan for clues regarding the anomaly.
+- [ ] Locate the investigator's handwritten note.
+- [ ] Unlock access to the **System Room** database.
+
+### **Phase 2: System Room** 🖥️
+- [ ] Access the digital database (screen or print).
+- [ ] Run a manual comparison with the Investigation Room report.
+- [ ] Flag all data inconsistencies.
+- [ ] Decode the hidden message and submit.
+
+---
+
+## 🎯 MISSION OBJECTIVE
+
+| Metric | Target |
+| :--- | :--- |
+| **Primary Goal** | **Extract the Hidden Message** |
+| **Success Criteria** | Pattern identified and validated |
+| **Intel Source** | Dr. Helena Cross, Lead Investigator |
+
+---
+
+## 💡 TECHNICAL TIPS
+
+- 📖 **Read everything.** Hidden strings are often in plain sight.
+- 🤝 **Sync with your team.** Cross-room communication is your greatest asset.
+- 📉 **Watch for patterns.** Inconsistencies are not errors; they are data points.
+- 📝 **Log your findings.** Write down every discrepancy immediately.
+- 🔑 **Need a hint?** Ping the **Game Master** for an override.
+
+---
+
+## 🎬 MISSION BRIEFING
+
+> [!CAUTION]
+> **ACCESS GRANTED: CLASSIFIED RESEARCH MATERIALS**
+> 
+> "A scientist has been poisoned. His name is Dr. Silas Venn. Before he collapsed, he left a trail for anyone who'd look carefully enough.
+>
+> You've been granted access to classified research materials. Find what's hidden within the inconsistencies. Dr. Helena Cross believes you'll understand the message once you see it.
+>
+> **Begin in the Investigation Room. Observe. Discover. Good luck.**"
+
+---
+
+## ❓ FREQUENTLY ASKED QUESTIONS
+
+<details>
+<summary><b>Where do I start?</b></summary>
+Head to the <b>Investigation Room</b> first. Locate the physical printed report.
+</details>
+
+<details>
+<summary><b>What am I looking for?</b></summary>
+Direct differences between the <b>printed report</b> and the <b>digital database</b>.
+</details>
+
+<details>
+<summary><b>How will I know when I find it?</b></summary>
+The anomaly will form a recognizable pattern or string. You'll know it when you see it.
+</details>
+
+<details>
+<summary><b>What is the ETA for this phase?</b></summary>
+Typically <b>30-45 minutes</b>. Thoroughness beats speed here.
+</details>
+
+---
+
+## 🏁 INITIALIZE
+
+**Proceed to the Investigation Room immediately.**
+
+The report is waiting. The investigation begins.
